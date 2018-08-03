@@ -1,7 +1,7 @@
-from syn_vc.syn_client import SynClient, _get_file_paths, _get_anno_p
+from synvc.syn_client import SynClient, _get_file_paths, _get_anno_p
 from pathlib import Path
-from syn_vc.utilities import (get_settings_md5, load_json, save_json,
-                              check_or_create_dir)
+from synvc.utilities import (get_settings_md5, load_json, save_json,
+                             check_or_create_dir)
 import argparse
 
 
