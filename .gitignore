@@ -2,3 +2,9 @@
 syn_vc\.egg-info/
 
 syn_vc/__pycache__/
+
+synvc\.egg-info/
+
+synvc/__pycache__/
+
+\.DS_Store
