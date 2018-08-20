@@ -15,4 +15,4 @@ def upload():
     sc = SynClient()
     sc.login()
     sc.parent_synid = remote_synid
-    sc.sync_folder('Runs/', direction='up')
+    sc.sync_folder(local_dir, direction='up')
