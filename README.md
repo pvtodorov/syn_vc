@@ -1,14 +1,14 @@
 # syn_vc
 version control for Synapse projects implemented in Python
 
-#Installation
+# Installation
 ```
 git clone https://github.com/pvtodorov/syn_vc.git
 cd syn_vc
 pip install -e .
 ```
 
-#Guide
+# Guide
 - Make sure you are logged into Synapse via the client. This can be done with.
 ```
 synapse login -u USERNAME -p PASSWORD --rememberMe
